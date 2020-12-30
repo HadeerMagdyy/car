@@ -1,0 +1,41 @@
+{
+    "title": "Car Management System",
+    "menuitem" :"Sign in",
+    "userName-signup" :"Client Name",
+    "phone-signup": "Phone Number",
+    "CarType-signup":" Choose Car Type",
+    "CarModel-signup":"Choose Car Model",
+    "CarYear-signup":"Choose Car Year",
+    "CarColor-signup":"Car Color",
+    "PlateNum-signup":"Plate Number",
+    "ChasisNum-signup":"Chasis Number",
+    "MotorNum-signup":"Motor Number",
+    "Kilometer":"mileages",
+    "check-signup":"I want to receive inspiration, marketing promotions and updates via email.",
+    "signupbutton-signup" :"SIGN UP",
+    "haveacoount-signup" : "Already have an account? Sign in",
+
+    "Reg-home" : "Add new car",
+    "Reg-detail-home" : "Add new car",
+    "Reg-btn-home" : "Add car",
+
+    "visit-home" : "Visit",
+    "visit-home-detail" : "Visit Details",
+    "visit-home-detail-btn" : "Start Visit",
+
+
+    "visit-dashboard-home" : "Visit Dashboard",
+    "visit-dashboard-home-detail" : "All current visits",
+    "visit-dashboard-home-detail-btn" : "Visit Dashboard",
+
+    "addtech-home" : "Technician",
+    "addtech-home-detail" : "New technician",
+    "addtech-home-detail-btn" : "Add technician ",
+    
+
+    "Rememberme-signin":"Remember me",
+    "signInbutton-signin":"SIGN IN",
+    "termsandpolicy-signin":"Term and policy",
+    "Donthaveaccount-signin":"Don't have an account? Sign Up"
+    
+}

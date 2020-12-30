@@ -1,0 +1,43 @@
+{
+    "title": " مركز خدمه صيانه السيارات",
+    "menuitem" :"تسجيل دخول",
+    "userName-signup" :"أسم العميل",
+    "phone-signup": "رقم الهاتف",
+    "CarType-signup":"ماركه العربيه",
+    "CarModel-signup":" موديل العربيه",
+    "CarYear-signup":"سنه الصنع",
+    "CarColor-signup":"لون العربيه",
+    "PlateNum-signup":"رقم اللوحات",
+    "ChasisNum-signup":"رقم الشاسيه",
+    "MotorNum-signup":"رقم الموتور",
+    "Kilometer":"عداد الكيلومتر",
+    "check-signup":"أرغب في تلقي العروض الترويجيه التسويقيه والتحديثات عبر البريد الالكتروني",
+    "signupbutton-signup" :"تسجيل الدخول",
+    "haveacoount-signup" : "لدي حساب بالفعل , تسجيل دخول",
+
+    "Reg-home" : "تسجيل عربيه جديده",
+    "Reg-detail-home" : "أضافه سياره جديده",
+    "Reg-btn-home" : "أضافه سياره ",
+
+
+    "visit-home" : "الزياره",
+    "visit-home-detail" : "تفاصيل الزياره",
+    "visit-home-detail-btn" : "اذهب للزياره",
+
+
+    "visit-dashboard-home" : "كل الزيارات",
+    "visit-dashboard-home-detail" : "كل الزيارات المفتوحه",
+    "visit-dashboard-home-detail-btn" : "شاهد الزيارات",
+
+    "addtech-home" : "الفنيين",
+    "addtech-home-detail" : "فني جديد",
+    "addtech-home-detail-btn" : "اضافه فني",
+
+
+
+    "Rememberme-signin":"تذكرني",
+    "signInbutton-signin":"تسجيل الدخول",
+    "termsandpolicy-signin":"الشروط والخدمه",
+    "Donthaveaccount-signin":"لا تملك حساب؟ سجل"
+    
+}

@@ -1,0 +1,60 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&display=swap');
+body{
+    background-color: gainsboro;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 20px;
+}
+hr{
+    height:2px;border-width:0;color:gray;background-color:gray;
+    margin-top: 20px;
+}
+h4{
+    font-family: cursive;
+
+    color: black;
+    text-shadow: 2px 2px 8px #0000FF;}
+
+    .dropdown{
+        margin-top: 33px;
+    }
+    #datetime-local{
+        margin-top: 20px;
+    }
+    #textarea{
+        width:540px ;
+    }
+    #btn-visit{
+        width: 450px;
+        font-family: cursive;
+        margin-left: 330PX;
+        margin-top: 20px;
+        margin-bottom: 60px;
+    }
+
+    #newcar-btn{
+        margin-top: 32px;
+        width: 250px;
+    }
+
+    h6{
+        font-family: cursive;
+        font-weight:bold ;
+        width: 150px;
+        font-size: 20px;
+        margin-left: 30px;
+    }
+    #searchimg{
+        width: 80px;
+        height: 80px;
+    }
+
+    #header{
+        margin-right: 90px;
+        font-family: 'Hanalei Fill', cursive;
+        font-size: 30px;
+        
+    }

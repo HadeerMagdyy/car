@@ -1,0 +1,68 @@
+#divv{
+    margin-left: 360px;
+    width: 700px;
+    height: 600px;
+    background-color: whitesmoke;
+    border-style:  solid;
+    border-radius: 10px;
+}
+
+#head{
+    background-color:black;
+    color: white;
+    height: 60px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;    
+   
+}
+b{
+    margin-right: 80px;
+}
+
+#work{
+    text-align: center;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;  
+    margin-top: 20px;  
+   
+    
+}
+#info{
+    height: 120px;
+    margin-top: 15px;
+    border-top: black;
+    border-bottom: black;
+    border-style:dotted
+    ;}
+p{
+    margin-left: 5px;
+}
+
+#orderdetail{
+    margin-top: 30px;
+    height: 390px;
+    width: 670px;
+}
+
+hr{
+    margin-left: 15px;
+}
+span{
+    margin-left: 16px;
+}
+
+#checkbtn{
+margin-left: 900px;
+margin-top: -100px;
+    width: 110px;
+}
+
+#imgg{
+
+    height: 60px;
+    width: 90px;
+    float: left;
+}
